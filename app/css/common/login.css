@@ -1,0 +1,16 @@
+.wrapper {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 500px;
+    height: 280px;
+    border: 1px solid #333;
+    margin-left: -250px;
+    margin-top: -140px;
+}
+.container {
+    text-align: center;
+}
+.container h2 {
+    font-size: 32px;
+}
