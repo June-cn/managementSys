@@ -4,7 +4,7 @@
     left: 50%;
     width: 500px;
     height: 280px;
-    border: 1px solid #333;
+    -border: 1px solid #333;
     margin-left: -250px;
     margin-top: -140px;
 }
@@ -13,4 +13,9 @@
 }
 .container h2 {
     font-size: 32px;
+    margin: 15px 0;
+    color: #676a6c;
+}
+.container form {
+    height: 100%;
 }
